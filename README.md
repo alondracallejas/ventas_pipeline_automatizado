@@ -8,7 +8,7 @@ Consolidar las ventas mensuales a partir de archivos pivoteados entregados por c
 
 ## 📁 Estructura del Proyecto 
 
-'''text
+```text
 proyecto_trazabilidad_ventas/
 │
 ├── datos_mensuales/ # Archivos CSV mensuales de ventas (raw)
