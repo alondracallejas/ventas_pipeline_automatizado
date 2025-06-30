@@ -1,0 +1,1 @@
+# ventas_pipeline_automatizado
