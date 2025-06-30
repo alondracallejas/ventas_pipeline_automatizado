@@ -29,7 +29,7 @@ proyecto_trazabilidad_ventas/
 │ └── churn_model.ipynb
 │
 └── README.md # Documentación del proyecto
-
+```
 ⚙ Requisitos - Python 3.9+ - Pandas - (opcional) MySQL o SQLite local para persistencia de datos - Streamlit (para dashboard) - Power BI Desktop (para visualización) Instalar dependencias básicas: ```bash pip install pandas streamlit 
 
 🧠 Lógica del Script de Consolidación
