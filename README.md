@@ -4,7 +4,7 @@ Consolidar las ventas mensuales a partir de archivos pivoteados entregados por c
 - Corregir problemas históricos de inconsistencias y falta de trazabilidad entre meses.
 - Automatizar la transformación, limpieza y carga de datos a una base consolidada.
 - Preparar los datos para modelos de predicción de churn y visualizaciones en Power BI / Streamlit.
-- Aprender y documentar buenas prácticas de trabajo de datos en proyectos reales. ---
+- Aprender y documentar buenas prácticas de trabajo de datos en proyectos reales.
 
 ## 📁 Estructura del Proyecto 
 
@@ -29,7 +29,7 @@ proyecto_trazabilidad_ventas/
 │
 └── README.md # Documentación del proyecto
 
---- ## ⚙️ Requisitos - Python 3.9+ - Pandas - (opcional) MySQL o SQLite local para persistencia de datos - Streamlit (para dashboard) - Power BI Desktop (para visualización) Instalar dependencias básicas: ```bash pip install pandas streamlit 
+⚙ Requisitos - Python 3.9+ - Pandas - (opcional) MySQL o SQLite local para persistencia de datos - Streamlit (para dashboard) - Power BI Desktop (para visualización) Instalar dependencias básicas: ```bash pip install pandas streamlit 
 
 🧠 Lógica del Script de Consolidación
 
@@ -68,4 +68,3 @@ Publicar un dashboard ejecutivo en Power BI
 Este proyecto fue inspirado por experiencias reales en operaciones de datos.
 Es un ejercicio para mejorar procesos, corregir errores comunes y construir flujos de datos confiables.
 
---- ¿Te gustaría que te genere también el contenido de alguno de estos archivos iniciales (como `consolidar_ventas.py`) en la carpeta `/scripts` para que arranques con todo ya armado? 
